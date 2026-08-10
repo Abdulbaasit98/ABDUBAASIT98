@@ -8,7 +8,7 @@ evaluation against uniform and FoV-only baselines.
 
 **Interests:** 3D vision · adaptive streaming · LLM serving
 
-**Languages:** Korean (TOPIK) · English · Uzbek
+**Languages:** Korean · English · Uzbek
 
 Seeking AI/ML engineer roles in Korea from **Feb 2027**.
 
